@@ -34,8 +34,13 @@ Enjoy!
 
 (You Can Use a Controller!)
 Movement: Arrow Keys
+
 A: X
+
 B: C
+
 Z: Space
+
 Start: Enter
+
 C-stick: WASD
