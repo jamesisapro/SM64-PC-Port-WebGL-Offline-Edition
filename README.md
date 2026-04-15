@@ -26,7 +26,7 @@ From your file explorer select SM64.html
 
 Click open, and start the game!
 
-(For other browsers like Edge or Firefox, use a seperate online guide to disabel CORS in your browser)
+(For other browsers like Edge or Firefox, or if you're using Linux, use a seperate online guide to disable CORS in your browser)
 
 Only leave CORS disabled while you are using the game to defend against cyberthreats.
 
