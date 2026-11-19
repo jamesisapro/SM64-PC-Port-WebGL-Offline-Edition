@@ -16,31 +16,24 @@ Step 3:
 
 You can install automated CORS disablers for your browser (like this one https://chromewebstore.google.com/detail/cors-unblock/lfhmikememgdcahcdlaciloancbhjino), or if you want to do it manually you can continue below:
 
-For Chrome (Windows): Go to C:\Program Files\Google\Chrome\Application, and create a shortcut. On the shortcut, hit properties. The properties mini-menu will appear. Under the target section edit the target to look like this: "C:\Program Files\Google\Chrome\Application\chrome.exe" --disable-web-security --user-data-dir="C:\ChromeDevSession"
+For Chrome (Windows): Right-click on your desktop, go to NEW then move to shortcut and click on it. When Windows prompts you for the location of your item, paste the following: 
+C:\Program Files\Google\Chrome\Application\chrome.exe
 
-Name your shortcut whatever you would like to, and save it (preferably on your desktop)
+Give it a name and hit finish to create the shortcut. On the new shortcut, right-click it and hit properties (alt-enter). The properties mini-menu will appear. Under the target section edit the target (append the last few lines or copy and paste) to look like this: "C:\Program Files\Google\Chrome\Application\chrome.exe" --disable-web-security --user-data-dir="C:\ChromeDevSession"
 
-Open Chrome by clicking on the shortcut, and hit CTL+O to attempt to open a file
-
-From your file explorer select SM64.html
-
-Click open, and start the game!
+Open Chrome by double clicking on the shortcut, and hit CTL+O to attempt to open a file. From your file explorer go to downloads, go to the extracted ZIP and select SM64.html. Double click it to open it, and start the game!
 
 (For other browsers like Edge or Firefox, or if you're using Linux, use a seperate online guide to disable CORS in your browser.)
 
-Only leave CORS disabled while you are using the game to defend against cyberthreats.
+Only use the shortcut that leaves CORS disabled while you are using the game to defend against cyberthreats.
 
 Enjoy!
 
-(You Can Use a Controller!)
+You Can Use a Controller if you want. The regular key-bindings are as follows:
+
 Movement: Arrow Keys
-
 A: X
-
 B: C
-
 Z: Space
-
 Start: Enter
-
 C-stick: WASD
