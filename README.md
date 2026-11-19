@@ -34,8 +34,13 @@ Enjoy!
 You Can Use a Controller if you want. The regular key-bindings are as follows:
 
 Movement: Arrow Keys
+
 A: X
+
 B: C
+
 Z: Space
+
 Start: Enter
-C-stick: WASD
+
+C-buttons: WASD
