@@ -21,7 +21,7 @@ C:\Program Files\Google\Chrome\Application\chrome.exe
 
 Give it a name and hit finish to create the shortcut. On the new shortcut, right-click it and hit properties (alt-enter). The properties mini-menu will appear. Under the target section edit the target (append the last few lines or copy and paste) to look like this: "C:\Program Files\Google\Chrome\Application\chrome.exe" --disable-web-security --user-data-dir="C:\ChromeDevSession"
 
-Open Chrome by double clicking on the shortcut, and hit CTL+O to attempt to open a file. From your file explorer go to downloads, and then go to the extracted ZIP folder that you downloaded in step 3 and select SM64.html. Double click it to open it, and start the game!
+Open Chrome by double clicking on the shortcut, and hit Ctrl+O to attempt to open a file. From your file explorer go to downloads, and then go to the extracted ZIP folder that you downloaded in step 1 and select SM64.html. Double click it to open it, and start the game!
 
 (For other browsers like Edge or Firefox, or if you're using Linux, use a seperate online guide to disable SOP in your browser.)
 
