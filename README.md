@@ -17,9 +17,9 @@ Step 3:
 You can install easy to use SOP disablers for your browser (like this one https://chromewebstore.google.com/detail/cors-unblock/lfhmikememgdcahcdlaciloancbhjino) if you do, it is recommended to reenable SOP when not playing for security reasons. If you want to do it manually you can continue below:
 
 [For Chrome (Windows): Right-click on your desktop, go to NEW then move to shortcut and click on it. When Windows prompts you for the location of your item, paste the following: 
-C:\Program Files\Google\Chrome\Application\chrome.exe
+'C:\Program Files\Google\Chrome\Application\chrome.exe'
 
-Give it a name and hit finish to create the shortcut. On the new shortcut, right-click it and hit properties (alt-enter). The properties mini-menu will appear. Under the target section edit the target (append the last few lines or copy and paste) to look like this: "C:\Program Files\Google\Chrome\Application\chrome.exe" --disable-web-security --user-data-dir="C:\ChromeDevSession"
+Give it a name and hit finish to create the shortcut. On the new shortcut, right-click it and hit properties (alt-enter). The properties mini-menu will appear. Under the target section edit the target (append the last few lines or copy and paste) to look like this: "'C:\Program Files\Google\Chrome\Application\chrome.exe" --disable-web-security --user-data-dir="C:\ChromeDevSession'"
 
 Open Chrome by double clicking on the shortcut, and hit Ctrl+O to attempt to open a file. From your file explorer go to downloads, and then go to the extracted ZIP folder that you downloaded in step 1 and select SM64.html. Double click it to open it, and start the game! (You can skip step 4, as it is only for those who used an extension.)
 
