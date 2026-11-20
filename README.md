@@ -27,7 +27,7 @@ Open Chrome by double clicking on the shortcut, and hit Ctrl+O to attempt to ope
 
 Only use the shortcut that leaves SOP disabled while you are using the game to defend against cyberthreats such as XSS/CSRF attacks.]
 
-Step 4: With your new extension, press CTL+O to attempt to open a file. From your file explorer go to downloads, and then go to the extracted ZIP folder that you downloaded in step 3 and select SM64.html. Double click it to open it, and start the game! 
+Step 4: With your new extension, press Ctrl+O to attempt to open a file. From your file explorer go to downloads, and then go to the extracted ZIP folder that you downloaded in step 1 and select SM64.html. Double click it to open it, and start the game! 
 
 Enjoy!
 
