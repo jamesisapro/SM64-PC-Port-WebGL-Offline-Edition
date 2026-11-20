@@ -14,7 +14,7 @@ Extract the ZIP file (default location is fine).
 
 Step 3:
 
-You can install easy to use SOP disablers (CORS enablers) for your browser (like this one https://chromewebstore.google.com/detail/cors-unblock/lfhmikememgdcahcdlaciloancbhjino), or if you want to do it manually you can continue below:
+You can install easy to use SOP disablers for your browser (like this one https://chromewebstore.google.com/detail/cors-unblock/lfhmikememgdcahcdlaciloancbhjino) if you do, it is recommended to reenable SOP when not playing for security reasons. If you want to do it manually you can continue below:
 
 [For Chrome (Windows): Right-click on your desktop, go to NEW then move to shortcut and click on it. When Windows prompts you for the location of your item, paste the following: 
 C:\Program Files\Google\Chrome\Application\chrome.exe
@@ -27,7 +27,7 @@ Open Chrome by double clicking on the shortcut, and hit CTL+O to attempt to open
 
 Only use the shortcut that leaves SOP disabled while you are using the game to defend against cyberthreats such as XSS/CSRF attacks.]
 
-Step 4: With your new extension, press CTL+O to attempt to open a file. From your file explorer go to downloads, and then go to the extracted ZIP folder that you downloaded in step 3 and select SM64.html. Double click it to open it, and start the game!
+Step 4: With your new extension, press CTL+O to attempt to open a file. From your file explorer go to downloads, and then go to the extracted ZIP folder that you downloaded in step 3 and select SM64.html. Double click it to open it, and start the game! 
 
 Enjoy!
 
