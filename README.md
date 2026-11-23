@@ -45,7 +45,8 @@ Start: Enter
 
 C-buttons: WASD
 
-<img width="567" height="182" alt="image" src="https://github.com/user-attachments/assets/bfbf5c5a-4e19-4bec-918f-f064973165b5" />
+
+<img width="662" height="463" alt="image" src="https://github.com/user-attachments/assets/10565201-969c-460b-860e-f3bade1196ae" />
 
 
 Want to edit your save file? (Continue below:)
@@ -74,7 +75,7 @@ Step 3: In DevTools go to the console tab, and paste the script you just made. I
 
 Step 4: Reload the tab (Ctrl+R)
 
-Step 5: Launch the game, and verify it worked, if not there may be a typo or a pasting issue, reread and try again. 
+Step 5: Launch the game, and verify it worked. If it doesn't work, there may be a typo or pasting issue, reread the steps, and try again. 
 
 You can do this as many times as you want. 
 
