@@ -75,7 +75,11 @@ Step 3: In DevTools go to the console tab, and paste the script you just made. I
 
 Step 4: Reload the tab (Ctrl+R)
 
-Step 5: Launch the game, and verify it worked. If it doesn't work, there may be a typo or pasting issue, reread the steps, and try again. 
+Step 5: Launch the game, and verify it worked.
+
+If it did close DevTools.
+
+If it didn't, there may be a typo or pasting issue, reread the steps, and try again. 
 
 You can do this as many times as you want. 
 
