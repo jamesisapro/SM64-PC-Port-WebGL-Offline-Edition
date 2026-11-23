@@ -1,6 +1,6 @@
 ![Fan-made-Super-Mario-64-PC-port](https://github.com/user-attachments/assets/4554d5b3-d388-4a95-af9e-417819cec309)
 
-This port of SM64 runs on any regular web browser, supports save states, and runs at a smooth HD.
+This port of SM64 runs on any regular web browser, supports save states, and runs at a smooth ~60 fps.
 
 There is even a way to edit save files!
 
